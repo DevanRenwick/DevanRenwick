@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### - 🌱 I’m currently working at obtaining two certificates: AWS Cloud Practitioner and Security+
+#### - ✨ My goal is to become a better developer by commencing my own projects and hopefully contributing here!
 <!--
 **DevanRenwick/DevanRenwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
